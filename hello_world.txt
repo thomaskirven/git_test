@@ -1,2 +1,0 @@
-testing ssh committ signature
-great sucess!
